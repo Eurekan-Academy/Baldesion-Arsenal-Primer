@@ -1,11 +1,14 @@
 
 ## What is BA?
 
-The Baldesion Arsenal is the final raid zone inside Hydatos, and has some special rules (i.e. you cannot resurrect people except for using special actions). You will need Elemental Level 60 to enter and have the main Eureka questline completed.
+The Baldesion Arsenal is the final raid, zoned inside Eureka Hydatos, and has some special rules (i.e. you cannot resurrect people except for using special actions). You will need Elemental Level 60 to enter and have the main Eureka questline completed.
+
+Eureka has been around since Stormblood and as such is quite old content, but still has very active communities doing the raid frequently.
 
 This guide is intended for players who are new to BA, so it will not aim to explain *everything*. Things like chaining Double Edge, reflecting the Earth room or even how to use Death L are beyond the scope of this page. Buf if you want to learn more, and enjoyed your first run, do check out the links towards the end, and the two discords have a ton of advanced resources too to help you continue to learn and become a BA veteran.
 
-The quickest way to check if you are ready to join BA, is if you see no blue lines going towards the building at the horizon, and if the `Expedition Scholar` at (21.1, 13.8) in Hydatos is willing to sell you an `Aetheric Stabilizer` (DON'T buy one, this is just to test).
+Quickest way to check: run `/title set "Eurekan Explorer"` and that should succeed.
+Another way to check if you are ready to join BA, is if you see no blue lines going towards the building at the horizon, and if the `Expedition Scholar` at (21.1, 13.8) in Hydatos is willing to sell you an `Aetheric Stabilizer` (DON'T buy one, this is just to test).
 If this is not the case then you will need to check where you are with your quests and complete them.
 
 ### Hydatos questline
@@ -20,8 +23,11 @@ If this is not the case then you will need to check where you are with your ques
 ## How do I join?
 
 For all runs, we are using Discord for voice chat (you don't have to speak, but at least be able to listen). On the Light datacentre, please join 
-- [Eurekan Academy](https://discord.gg/eurekanacademy) 
-- [Light Forays Group](https://discord.gg/LightForays)
+
+Eurekan Academy | Light Forays Group
+---|---
+[![Eurekan Academy](img/eurekan-academy.png){width=200px}](https://discord.gg/eurekanacademy) | [![Light Forays Group](img/lfg.jpg){width=200px}](https://discord.gg/LightForays)
+
 
 and take a look at the `#assign-role` / `#role-selection` channels so you are able to join us in voice.
 
@@ -31,7 +37,6 @@ A typical run takes about 2 hours. Not all the time is spent fighting, but if we
 
 There are several types of BA runs
 - Impromptu Runs: These are without sign-up in advance. The code to enter the Party Finder groups will be posted shortly before the run, and all spots are FFA and they're newbie-friendly
-- Frag Runs: Similar to an Impromptu, but they typically stop before AV and don't go all the way to the end of BA. Good for getting those fragments as they're pretty quick!
 - Organised Runs (Newbie/Reclear): These are with signups in advanced and have a fixed roster. Sometimes there are free spots for late joiners, but usually they are filled well in advance
 - Challenge runs / Meme runs / Reflex runs / Mechanic runs / Squad runs: Special rules apply on these. Maybe better left for when you are more experienced, as a lot of these are without explanations
 
@@ -222,7 +227,7 @@ Recommended to keep `Feint L` up on AV as he's very evasive. Usually the Support
 3. Hostile Aspect - Dodge Puddles. They will double in size
 4. Medusa Jaelin - cone AE. be close to AV to have an easy time dodging this
 5. Eidos
-6. Impact Stream - dodge light/dark (opposite colour to AV)
+6. Impact Stream - dodge to the opposite colour of AV - if he has dark bracelets, go to the light side
 7. Aural Wind - tankbuster
 8. Eidos
 9. Hostile Aspect - Puddles again, but this time both colours. Watch the pattern and be far from the ones that will expand!
@@ -339,3 +344,11 @@ Proto Ozma
 * 1 Damascene Cloth
 * 1 Cryptic Seal
 * 1 Turmoil Orchestrion Roll
+
+## Acknowledgements
+
+Guide compiled by Fexla Zhed (Lich), with the help from the awesome communities in Eurekan Academy and Light Forays Group.
+
+Some graphics have been taken from other guides around the internet and used in good faith.
+
+`v2023.1.29a`
