@@ -12,9 +12,9 @@ This guide is intended for players who are new to BA, so it will not aim to expl
 
 The Baldesion Arsenal is the final raid, zoned inside Eureka Hydatos, and has some special rules (e.g. you cannot resurrect people except for using special actions like `Sacrifice` or Healer LB3). You will need Elemental Level 60 to enter and have the main Eureka questline completed.
 
-Eureka has been around since Stormblood and as such is quite old content, but still has very active communities doing the raid frequently.
+Eureka has been around since Stormblood and as such is quite old content, but still has very active communities doing the raid frequently. We have a lot of very experienced Raid hosts and Party leads, and aim to make this a welcoming environment for new players and keep the content alive.
 
-Quickest way to check if you have BA unlocked. Use `/title set "Eurekan Explorer"` in your chat, and that should succeed.
+Probably the quickest way to check if you have BA unlocked is to use `/title set "Eurekan Explorer"` in your chat, and that should succeed.
 Another way to check is if you see no blue lines going towards the building at the horizon, and if the `Expedition Scholar` at (21.1, 13.8) in Hydatos is willing to sell you an `Aetheric Stabilizer` (DON'T buy one, this is just to test).
 If this is not the case then you will need to check where you are with your quests and complete them.
 
@@ -26,6 +26,7 @@ If this is not the case then you will need to check where you are with your ques
 - Level 57: Talk to Krile at the The Western Columns at 10.6-29.6. Then head east to The Eastern Columns at 31.3-27.2 and talk to Krile again. Head north to The East Val River Bank at 30.8-14.4 to find the Pooled Aether. Return to The Eastern Columns at 31.3-27.2 and talk to Krile.
 - Level 60: Talk to Krile at the The Eastern Columns at 31.3-27.2. Head to The Aetherbridge Foundation at 24.0-30.6 and talk again to Krile. Head into the Headquarters Entrance and talk to Krile, then talk to her again in the Board Room. Interact with the Scattered Tomes and talk again to Krile for a few lengthy cutscenes. Choose between Krile's path (sealing) or that of Ejika Tsunjika (destruction) for another cutscene. Return to Central Point and talk to Ejika Tsunjika (when doing Krile's path) or Krile (when doing Ejika's path) to complete the quest.
 - Speak with the Expedition Scholar to unlock BA
+
 ![](img/unlock.png)
 
 ## How do I join?
