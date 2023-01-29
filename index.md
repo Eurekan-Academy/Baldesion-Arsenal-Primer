@@ -26,7 +26,7 @@ For all runs, we are using Discord for voice chat (you don't have to speak, but 
 
 Eurekan Academy | Light Forays Group
 ---|---
-[![Eurekan Academy](img/eurekan-academy.png){width=200px}](https://discord.gg/eurekanacademy) | [![Light Forays Group](img/lfg.jpg){width=200px}](https://discord.gg/LightForays)
+[![Eurekan Academy](img/eurekan-academy-300x170.png)](https://discord.gg/eurekanacademy) | [![Light Forays Group](img/lfg-300x170.jpg)](https://discord.gg/LightForays)
 
 
 and take a look at the `#assign-role` / `#role-selection` channels so you are able to join us in voice.
@@ -351,4 +351,4 @@ Guide compiled by Fexla Zhed (Lich), with the help from the awesome communities 
 
 Some graphics have been taken from other guides around the internet and used in good faith.
 
-`v2023.1.29a`
+`v2023.1.29b`
