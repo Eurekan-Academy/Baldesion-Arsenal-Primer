@@ -345,6 +345,8 @@ Give these to the `Expedition Engineer` in Pyros and Hydatos.
 
 You can put those extra magicites in the defensive element to improve your survivability.
 
+![](img/magicites.jpg)
+
 To get more Logos action slots (you can have 6 max), you can speak to the `Expedition Alchemist` in Hydatos and hand over `Aethertight Flask`. That can be obtained by opening a chest from a Hydatos Bunny Fate.
 
 ## BA Loot
