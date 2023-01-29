@@ -96,13 +96,22 @@ The actual portal map is specific to which discord you are running with, as the 
 
 ## Inside BA
 
-//Briefly explain what's at the entrance and how we split up
+Once we entered the Arsenal, we pop a `Spirit of the Remembered` and an appropriate wisdom for your role. Then we wait on the bridge until some volunteers who brought `Shell` and `Protect` have handed that out to you. After that you can use the Logos Manipulator to recraft Logos actions so you are well prepared for what's ahead.
 
-//`/magiaauto`
+Now is also the right time to use the `/magiaauto` command. It will adjust your magia wheel to the offensive (or defensive, if you use the command twice) setting. All roles except tanks want to have this on the offensive setting at all times. For tanks it depends if you are one of the main tanks for the run, or at a boss.
 
-## Art/Owain
+## Art and Owain
 
-//explain the basics (elements and carver/spinner)
+The raid will now split into two halves, where one side does the Art boss, and the other does Owain. These two bosses need to be dealt with at the same time, and which side you go to depends on which group you are in.
+Your Party leader will tell you where to go, but if unsure - just ask! Once you dropped down the ledge, you cannot go back to the entrance, so make sure you go to the right side.
+
+### Art
+
+//Legendcarver/spinner
+
+### Owain
+
+//Ice/Fire, spears
 
 ## On the note of Traps
 
