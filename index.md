@@ -34,9 +34,9 @@ If this is not the case then you will need to check where you are with your ques
 For all runs, we are using Discord for voice chat (you don't have to speak, but you need to be able to listen). On the Light datacentre, please join these two servers:
 
 Eurekan Academy | Light Forays Group
----|---
+:---:|:---:
 [![Eurekan Academy](img/eurekan-academy-300x170.png)](https://discord.gg/eurekanacademy) | [![Light Forays Group](img/lfg-300x170.jpg)](https://discord.gg/LightForays)
-
+[https://discord.gg/eurekanacademy](https://discord.gg/eurekanacademy) | [https://discord.gg/LightForays](https://discord.gg/LightForays)
 
 Next, take a look at the `#assign-role` / `#role-selection` channels and get set up so you are able to join us in voice.
 
