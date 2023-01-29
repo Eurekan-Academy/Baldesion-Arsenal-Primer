@@ -1,3 +1,9 @@
+## Quick links
+
+- [EA Portal Map](#portals-eurekan-academy)
+- [LFG Portal Map](#portals-light-forays-group)
+- [Accel Bomb](#acceleration-bomb)
+- [Meteors](#meteor)
 
 ## What is BA?
 
@@ -108,10 +114,10 @@ Where your portal is, can be found on the portal map. During the run, your Party
 
 The actual portal map is specific to which discord you are running with, as the groups are organised a little differently:
 
-### Eurekan Academy
+### Portals Eurekan Academy
 ![](img/Portal_map_EA.jpg)
 
-### Light Forays Group
+### Portals Light Forays Group
 ![](img/portals-lfg.jpg)
 
 
@@ -267,13 +273,16 @@ Ozma has several distinct phases/shapes
 This could be quite a lengthy explanation here, but I want to keep it simple for you so we will focus on the key facts and key mechanics which are are likely to give you problems as a first-timer.
 
 1. Black Hole. Between Phases, Ozma will turn into a sphere, and eject anyone not on a Black Hole Buffer. Be sure not to greed DPS and stand on yours in time to avoid that
-
 2. Acceleration Bomb. If you got one of these, stop casting, emoting, and, well, **literally don't do a thing** and wait for it to expire before doing anything else. If you notice it in time, you can often move to the ring and avoid getting hit with another mechanic. 
+3. Meteors. Repeat after me: **To the back and to the right**.  Place them on the markers that your Party lead will have mentioned to you. If you're unsure - do ask again. This can wipe the raid if you get it wrong. Placing these right also take priority over the Acceleration Bomb, should be be so unlucky and get both mechanics.
+
+
+### Acceleration Bomb
 
 <video src='video/accel-bomb.mp4' controls loop muted autoplay>
 </video>
 
-3. Meteors. Repeat after me: **To the back and to the right**.  Place them on the markers that your Party lead will have mentioned to you. If you're unsure - do ask again. This can wipe the raid if you get it wrong. Placing these right also take priority over the Acceleration Bomb, should be be so unlucky and get both mechanics.
+### Meteor
 
 <video src='video/meteor.mp4' controls loop muted autoplay>
 </video>
@@ -348,4 +357,4 @@ Guide compiled by Fexla Zhed (Lich), with the help from the awesome communities 
 
 Some graphics have been taken from other guides around the internet and used in good faith.
 
-`v2023.1.29b`
+`v2023.1.29c`
