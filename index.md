@@ -264,19 +264,16 @@ Ozma has several distinct phases/shapes
     - Shooting Star - knockback from the middle of the platform
     - Meteor Impact
 
-This could be quite a lengthy explanation here, but I want to keep it simple for you so we will focus on the key facts and key mechanics are are likely to give you problems as a first-timer.
+This could be quite a lengthy explanation here, but I want to keep it simple for you so we will focus on the key facts and key mechanics which are are likely to give you problems as a first-timer.
 
-1. Black Hole. Between Phases, Ozma will turn into a Sphere, and eject anyone not on a Black Hole Buffer. Be sure not to greed DPS and stand on yours in time to avoid that
-2. Acceleration Bomb. If you got one of these, stop casting, emoting, and, well, literally wait for it to expire before doing anything else. If you notice it in time, you can often move to the ring and avoid getting hit with another mechanic. 
-3. Meteors. Repeat after me: *To the back and to the right*  Place them on the markers that your Party lead will have mentioned to you. If you're unsure - do ask again. This can wipe the raid if you get it wrong. Placing these right also take priority over the Acceleration Bomb, should be be so unlucky and get both mechanics.
+1. Black Hole. Between Phases, Ozma will turn into a sphere, and eject anyone not on a Black Hole Buffer. Be sure not to greed DPS and stand on yours in time to avoid that
 
-
-### Acceleration Bomb
+2. Acceleration Bomb. If you got one of these, stop casting, emoting, and, well, **literally don't do a thing** and wait for it to expire before doing anything else. If you notice it in time, you can often move to the ring and avoid getting hit with another mechanic. 
 
 <video src='video/accel-bomb.mp4' controls loop muted autoplay>
 </video>
 
-### Meteor
+3. Meteors. Repeat after me: **To the back and to the right**.  Place them on the markers that your Party lead will have mentioned to you. If you're unsure - do ask again. This can wipe the raid if you get it wrong. Placing these right also take priority over the Acceleration Bomb, should be be so unlucky and get both mechanics.
 
 <video src='video/meteor.mp4' controls loop muted autoplay>
 </video>
