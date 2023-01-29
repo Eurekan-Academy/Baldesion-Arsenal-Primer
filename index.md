@@ -7,7 +7,11 @@ The Baldesion Arsenal is the final raid zone inside Hydatos, and has some specia
 
 ## How do I join?
 
-For all runs, we are using Discord for voice chat (you don't have to speak, but at least be able to listen). So please join https://discord.gg/eurekanacademy and take a look at the `#assign-role` channel so you are able to join us.
+For all runs, we are using Discord for voice chat (you don't have to speak, but at least be able to listen). On the Light datacentre, please join 
+- [Eurekan Academy](https://discord.gg/eurekanacademy) 
+- [Light Forays Group](https://discord.gg/LightForays)
+
+and take a look at the `#assign-role` / `#role-selection` channels so you are able to join us in voice.
 
 A typical run takes about 2 hours. Not all the time is spent fighting, but if we have new players joining, we spend time on explanations too. And sometimes, Ovni spawn can delay the actual start too - more on that later.
 
@@ -48,7 +52,12 @@ You will need to know how to craft in both Umbral/Astral slots to make best use 
 
 Explain Ovni, fairy, blue/red portals
 
+The portal map is a bit different depending on which discord you are running with, as the groups are numbered a bit differently:
+
+### Eurekan Academy
 ![](img/Portal_map_EA.jpg)
+### Light Forays Group
+![](img/portals-lfg.jpg)
 
 
 ## Inside BA
@@ -100,4 +109,8 @@ We have one or two people on Perception duty (that is a logos action to reveal t
 ## Post-BA
 
 //where to get the mount
+
+
+## This was fun - I want to learn more
+
 //links to advanced resources that explain spicy logograms (out of scope for this guide)
