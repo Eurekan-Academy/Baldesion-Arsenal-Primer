@@ -58,9 +58,9 @@ Later on, once you got more fragments, you can upgrade your weapon to a `Physeos
 
 For your chest slot, you should use:
 - Tanks and DPS - [Kirin's Osode of xxx](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/090fb17ff58/)
-- Healers and Casters - [Vermilion Cloak of xxx](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0704efd723d/)
+- Healers and Casters - [Vermilion Cloak of xxx](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/0704efd723d/) - note that this item will not allow you to wear a separate Head piece, but that's ok
 
-That chestpiece is still best in slot for doing BA and benefits from melding too.
+These two chestpieces are best in slot for doing BA and they benefit from melding too.
 
 To heal through some of the AEs, you can also buy yourself a few [Eurekan Potion](https://eu.finalfantasyxiv.com/lodestone/playguide/db/item/2c070822273/)s from the NPC in Hydatos.
 
@@ -196,12 +196,14 @@ Big traps are explosive, and will kill you instantly. The smaller traps apply a 
 
 Raiden is quite straightforward, as long as you listen to the callouts and don't panic. Beware of the Lateral zantetsuken and which direction to dodge it to!
 
+A good way to handle this mechanic is for the whole group to stack in the same place to bait the puddle AEs, pop sprint, and then run together towards Raiden and to the correct side.
+
 1. Spirits of the fallen - raidwide damage
 2. Shingan - tankbuster
 3. Thundercall - outer platform becomes death zone
 4. Ame-no-sakahoko - go south (C marker) to avoid the **BIG AE**
 5. Whirling zantetsuken - get **inside his hitbox**
-6. Ball lightning - stack in the middle to bait AE
+6. Ball lightning - stack to bait AE
 7. Lateral zantetsuken - dodge either left or right depending where he holds his sword. Listen to the callouts to make this easy
 8. Lancing bolt - If you get marked with this, place your AE around the edge of the arena
 9. Booming lament - puddle AEs, dodge them quickly
@@ -345,7 +347,7 @@ Give these to the `Expedition Engineer` in Pyros and Hydatos.
 
 You can put those extra magicites in the defensive element to improve your survivability.
 
-![](img/magicites.jpg)
+![](img/magiawheel.jpg)
 
 To get more Logos action slots (you can have 6 max), you can speak to the `Expedition Alchemist` in Hydatos and hand over `Aethertight Flask`. That can be obtained by opening a chest from a Hydatos Bunny Fate.
 
@@ -391,4 +393,4 @@ Thanks for reading all the way to the end, and I hope to see you on a run soon!
 
 ![](img/ba.jpg)
 
-`v2023.1.29d`
+`v2023.2.3a`
