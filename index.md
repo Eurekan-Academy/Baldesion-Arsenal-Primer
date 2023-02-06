@@ -1,12 +1,5 @@
 This guide is intended for players who are new to BA, so it will not aim to explain *everything*. Things like chaining `Double Edge`, `Reflect`ing the Earth room or even how to use `Sacrifice` to resurrect someone are beyond the scope of this guide. If you want to learn more, and enjoyed your first run, do check out the resources towards the end, and the two Discord servers have a ton of advanced information to help you continue to learn and become a BA veteran.
 
-## Quick links
-
-- [EA Portal Map](#portals-eurekan-academy)
-- [LFG Portal Map](#portals-light-forays-group)
-- [BA Runs Schedule](https://bit.ly/BAruns) (external link)
-- [Accel Bomb](#acceleration-bomb)
-- [Meteors](#meteor)
 
 ## What is BA?
 
@@ -40,7 +33,7 @@ Eurekan Academy | Light Forays Group
 
 Next, take a look at the `#assign-role` / `#role-selection` channels and get set up so you are able to join us in voice.
 
-The Schedule for both servers can be found [here](https://bit.ly/BAruns) and runs are also announced in their channels too.
+The Schedule for both servers can be found [here](https://bit.ly/3HBNp0G) and runs are also announced in their channels too.
 
 A typical run takes about 2 hours. Not all the time is spent fighting, but if we have new players joining, we spend time on explanations too. And sometimes, Ovni spawn can delay the actual start too - more on that later.
 
@@ -223,9 +216,9 @@ Once we found the portal, there is a bit more trash to clear, then the raid spli
 
 ### Elemental rooms
 
-Below is how Eurekan Academy splits their groups. LFG does it in a similar way, and in both cases your Party Lead will mark the correct room for you.
+Your Party Lead will mark the correct room for you now. Each party will take a separate room to clear, with enemies spawning in a specific element.
 
-![](img/elemental-rooms.png)
+![](img/elemental-rooms.jpg)
 
 
 Once the trap in your room is cleared (most likely by your tank, using invulnerability), and everyone is ready, the tanks switch their stance on, switch to the defensive element for their room (and use a `Wisdom of the Guardian` to help with healing), mobs spawn. We kill those quickly, then move on to AV, where we will wait (about 7 min break) for the Support group to arrive.
@@ -393,4 +386,4 @@ Thanks for reading all the way to the end, and I hope to see you on a run soon!
 
 ![](img/ba.jpg)
 
-`v2023.2.3a`
+`v2023.2.6a`
