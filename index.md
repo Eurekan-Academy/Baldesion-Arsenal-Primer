@@ -242,7 +242,8 @@ Once inside, do a quick craft if you have to, otherwise use the Shortcut to join
 
 ## Absolute Virtue (AV)
 
-It is recommended to keep `Feint L` up on AV as he's very evasive. Usually the Support Tank brings this action. This is what you are likely to see in the fight:
+It is recommended to keep `Feint L` up on AV as he's very evasive. Usually the Support Tank brings this action. His mechanics are based on light/dark colours, so we need to avoid the colour he is attuned to.
+This is what you are likely to see in the fight:
 
 1. Meteor - Raidwide damage
 2. Eidos - AV will pick either light or dark element to attune himself with
@@ -258,9 +259,12 @@ It is recommended to keep `Feint L` up on AV as he's very evasive. Usually the S
 11. Aural Wind
 12. Meteor
 13. Meteor
-14. Explosive Impulse - Proximity AE - pop `Sprint` and run to the edge
+14. Explosive Impulse x3 - Proximity AEs around the edge, stay in the middle
 15. Triple Impact stream. Listen to the callouts and don't run too far from the middle
-16. Explosive Impulse and beyond - we rarely see this anymore. Just listen for callouts if we do!
+16. Explosive Impulse - Proximity AE - pop `Sprint` and run to the edge
+17. Medusa Javelin - be close again to dodge this more easily
+18. Aural Wind
+19. Meteor, and beyond - we rarely see this anymore. Just listen for callouts if we do!
 
 ## Ozma
 
@@ -274,7 +278,7 @@ Ozma has several distinct phases/shapes. You don't have to remember this, it wil
 - Cube
     - Donut AE, you want to be close
     - Laser attacks, tanks left, group right
-    - Orbs
+    - Orbs, the offtanks handle these
     - Holy knockback
 - Pyramid
     - Line AE, get off the platform
@@ -313,6 +317,7 @@ In Pyramid Phase, one healer per platform will need to stand at the back to bait
 
 You may be a MT for your platform, or an OT, which in turn means you are responsible for running into the Orbs in Cube Phase, and tanking the Adds in Star Shape.
 A defensive logos action like `Wisdom of the Guardian` is great for that, and be in defensive element on your magia wheel.
+For the Orbs, you will need to take those that spawn to the RIGHT of your platform (i.e. go counter-clockwise).
 
 The Orbs will hit you through invulnerability, so pop plenty of cooldowns when you take those, and be quick with resolving this mechanic to avoid the Orb AEs clipping the main group on the platform.
 
@@ -386,4 +391,4 @@ Thanks for reading all the way to the end, and I hope to see you on a run soon!
 
 ![](img/ba.jpg)
 
-`v2023.2.6a`
+`v2023.2.6b`
