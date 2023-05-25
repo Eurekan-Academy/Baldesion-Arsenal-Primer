@@ -185,6 +185,14 @@ Big traps are explosive, and will kill you instantly. The smaller traps apply a 
 
 ![](img/BA-traps.png)
 
+On the way from Raiden and to the portal to Support rooms
+
+![](img/Eureka-Hydatos-The-Umbral-Tier_1.png)
+
+Just after the portal, and including Support rooms
+
+![](img/Eureka-Hydatos-The-Astral-Tier.png)
+
 ## Raiden
 
 Raiden is quite straightforward, as long as you listen to the callouts and don't panic. Beware of the Lateral zantetsuken and which direction to dodge it to!
