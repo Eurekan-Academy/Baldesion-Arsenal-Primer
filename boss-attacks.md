@@ -11,7 +11,7 @@ Boss Attack Queue Sheet
 * TOC
 {:toc}
 
-[back to main guide](/)
+[back to main guide](../)
 
 ![](img/art.png)
 
@@ -191,6 +191,6 @@ Ozma
 9. Black hole (after every phase)
 10. **ENRAGE (10:35)**{:.danger}
 
-[back to main guide](/)
+[back to main guide](../)
 
 `v2023.3.10` by Fexla
