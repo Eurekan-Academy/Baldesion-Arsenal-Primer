@@ -173,7 +173,7 @@ Ozma
 4. Black hole	
 5. **Orb form (Heavy hitting autoattacks)**{:.tank}
 6. Ozmashade, Cube=close, Star=away, pyramid=sides	
-7. Ozmashade + Ozma, Cube=close, Star=far/awar, pyramid=on ring	--- Shade first, Ozma after	 *Step 7+8+9 Repeat 5 times, first form is always Star*{:.loopstart}
+7. Ozmashade + Ozma, Cube=close, Star=far/awar, pyramid=on ring	--- Shade first, Ozma after	 *Step 7+8+9 Repeat 5 times*{:.loopstart}
 8. Ozma form
    * A. Cube (Donut AoE, get close to him!) MT away from group!	
       * **A.1 Orbs, Offtanks pop them**{:.tank}
