@@ -5,7 +5,7 @@ Boss Attack Queue Sheet
 <style>
 .tank { background-color: #6495ED; color: white; }
 .healer { background-color: #228B22; color: white; }
-.normal { }
+.danger { background-color: #FF8C00; color: black; }
 </style>
 
 * TOC
@@ -50,146 +50,134 @@ Art
 
 Owain
 -----
-1. Tankbuster/thricecull
-{:.tank}
-2. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
-{:.healer}
+1. **Tankbuster/thricecull**{:.tank}
+2. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
 3. Spear summon/ Mythcall (Prepare for Elemental shift)
 4. Elemental shift (Fire or Ice)
 5. Elemental magics, Move to a spear with the opposite element as Owain (Fire or Ice)
-6. Tankbuster/thricecull
-{:.tank}
-7. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
-{:.healer}
+6. **Tankbuster/thricecull**{:.tank}
+7. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
 8. Elemental shift (Fire or Ice)
 9. Elemental magics, Move to a spear with the opposite element as Owain (Fire or Ice)
 10. Tankbuster/thricecull (group stack behind him right after to make the following aoes easyer.)
 11. Big aoe's away, little aoes (triangle) stack
-12. Tankbuster/thricecull
-{:.tank}
-13. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
-{:.healer}
+12. **Tankbuster/thricecull**{:.tank}
+13. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
 14. Proximity AoE, circle aoe away from the group
-15. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)                                                        Loopstart
-{:.healer}
-16. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
-{:.healer}
+15. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}    *Loopstart*
+16. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
 17. Elemental shift (Fire or Ice) Stack behind him first for upcoming aoes.
 18. Big aoe's away, little aoes (triangle) stack
 19. Elemental magics, Move to a spear with the opposite element as Owain (Fire or Ice)
-20. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)                                                        
-{:.healer}
+20. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
 21. If tethered to a Hand look at it and move towards it.
 22. Elemental shift (Fire or Ice)
 23. Elemental magics, Move to a spear with the opposite element as Owain (Fire or Ice)
 24. Tankbuster/thricecull (group stack behind him right after to make the following aoes easyer.)
 25. Big aoe's away, little aoes (triangle) stack
-26. Tankbuster/thricecull
-{:.tank}
-27. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
-{:.healer}
+26. **Tankbuster/thricecull**{:.tank}
+27. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
 
 ![](img/raiden.png)
 
 Raiden
 ------
-1. Raidwide/spirits of the fallen
- (Shield healers shields up, Eurekan Potion)
-2. Tankbuster/shingan
+1. **Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion)**{:.healer}
+2. **Tankbuster/shingan**{:.tank}
 3. Electrified Edges/ Thundercall (stay away from the edge) Healers and RangedDPS can move to the back
 4. "Ame-no-sakahoko" GET AWAY FROM HIM, MOVE TOWARDS C
 5. Move into his Hitbox/Whirling zantetsuken, Prepare to move to the middle after ("1" Marker)
 6. Stack at "1"/Middle, Raiden spawns on either B or D
 7. Check his Sword and move to either A or C (Prepare for Raidwide after)
-8. Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion)
+8. **Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion)**{:.healer}
 9. Lancing bolt, Spread AoEs, dont Overlap to much, Kill Spears (Prepare for Raidwide after)
-10. Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion) Sneaky puddle next!    Loopstart
-11. Sneaky Puddle/ booming lament, run out of it! 
+10. **Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion) Sneaky puddle next!**{:.healer}    *Loopstart*
+11. **Sneaky Puddle/ booming lament, run out of it!**{:.danger}
 12. Exaflare/ Cloud to ground, Check where it spawns, move behind the path of the first
 13. Tethers + Small AoE (bitter barbs), break tethers, dodge AoEs !!! Watchout for Exaflares !!! 
-14. Move into his Hitbox/Whirling zantetsuken (visual guide says "For Honor" can also appear, never seen it there tho)
-15. Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion)
+14. **Move into his Hitbox/Whirling zantetsuken (visual guide says "For Honor" can also appear, never seen it there tho)**{:.danger}
+15. **Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion)**{:.healer}
 16. Exaflare/ Cloud to ground, Check where it spawns, move behind the path of the first
 17. Proximity AoE/Levinwhorl, run away and change into defensive magicite if possible!
-18. "Ame-no-sakahoko" GET AWAY FROM HIM (In or Out next!)
-19. Whirling zantetsuken (In his hitbox!) or For honor (Away from him!)
-20. Sneaky Puddle/ booming lament, run out of it! 
-21. Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion) (Prepare to move to the Middle)
+18. **"Ame-no-sakahoko" GET AWAY FROM HIM (In or Out next!)**{:.danger}
+19. **Whirling zantetsuken (In his hitbox!) or For honor (Away from him!)**{:.danger}
+20. **Sneaky Puddle/ booming lament, run out of it!**{:.danger}
+21. **Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion) (Prepare to move to the Middle)**{:.healer}
 22. Dash or Lancing bolt
 
 ![](img/absolute-virtue.png)
 
 Absolute Virtue (AV)
 --------------------
-1. Raidwide/meteor (Shield healers shields up, Eurekan Potion)
+1. **Raidwide/meteor (Shield healers shields up, Eurekan Potion)**{:.healer}
 2. Color change/ Eidos
 3. Puddles, get away! (1 Color) Get back behind for medusa javelin!!! 
 4. Medusa javelin, dodge it!
 5. Color change/ Eidos
 6. Impact stream move to Light/Dark (check the bracelet color!)
-7. Tankbuster/auroral wind
+7. **Tankbuster/auroral wind**{:.tank}
 8. Color change/ Eidos
 9. Puddles: check bracelets, get close to opposite color!
-10. Raidwide/meteor (Shield healers shields up, Eurekan Potion) GET BACK BEHIND FOR ORBS+JAVELIN
+10. **Raidwide/meteor (Shield healers shields up, Eurekan Potion) GET BACK BEHIND FOR ORBS+JAVELIN**{:.healer}
 11. Orbs/ Turbulent aether, check if you have an orb and move to opposite colored puddle, WAIT FOR JAVELIN
 12. Medusa javelin, dodge it! If you have an orb, move to the opposite colored puddle!
-13. Tankbuster/auroral wind (Prepare for double raidwide!)
-14. Raidwide/meteor (Shield healers shields up, Eurekan Potion)
-15. Raidwide/meteor (Shield healers shields up, Eurekan Potion) Proximity AoE after!
+13. **Tankbuster/auroral wind (Prepare for double raidwide!)**{:.tank}
+14. **Raidwide/meteor (Shield healers shields up, Eurekan Potion)**{:.healer}
+15. **Raidwide/meteor (Shield healers shields up, Eurekan Potion) Proximity AoE after!**{:.healer}
 16. Proximity aoe's, move to middle
-17. Tripple Impact stream move to Light/Dark (check the bracelet color!)
+17. **Triple Impact stream move to Light/Dark (check the bracelet color!)**{:.healer}
 18. Proximity AoE, move to the edge and move to the middle AFTER! Next is Javelin!!
 19. Medusa javelin, dodge it!
-20. Tankbuster/auroral wind
-21. Raidwide/meteor (Shield healers shields up, Eurekan Potion) Adds after
+20. **Tankbuster/auroral wind**{:.tank}
+21. **Raidwide/meteor (Shield healers shields up, Eurekan Potion) Adds after**{:.healer}
 22. Adds / Call wyvern, Kill them ASAP! Orbs after
 23. Orbs/ Turbulent aether, check if you have an orb and move to opposite colored puddle, WAIT FOR JAVELIN
 24. Medusa javelin, dodge it! If you have an orb, move to the opposite colored puddle!
-25. Raidwide/meteor (Shield healers shields up, Eurekan Potion)
+25. **Raidwide/meteor (Shield healers shields up, Eurekan Potion)**{:.healer}
 26. Color change/ Eidos
 27. Puddles: check bracelets, get close to opposite color! Proximity next!
 28. Proximity AoE into Impact Stream move to Light/Dark (Check bracelet color!)
 29. Impact stream move to Light/Dark (check the bracelet color!) Stay close to AV for javelin
 30. Medusa javelin, dodge it!
-31. Raidwide/meteor (Shield healers shields up, Eurekan Potion) Adds after
+31. **Raidwide/meteor (Shield healers shields up, Eurekan Potion) Adds after**{:.healer}
 32. Adds / Call wyvern, Kill them ASAP! Orbs after
 33. Orbs/ Turbulent aether, check if you have an orb and move to opposite colored puddle, WAIT FOR JAVELIN
 34. Medusa javelin, dodge it! If you have an orb, move to the opposite colored puddle!
-35. Tankbuster/auroral wind
-36. Raidwide/meteor (Shield healers shields up, Eurekan Potion)
+35. **Tankbuster/auroral wind**{:.tank}
+36. **Raidwide/meteor (Shield healers shields up, Eurekan Potion)**{:.healer}
 37. Color change/ Eidos
 38. Puddles: check bracelets, get close to opposite color! Proximity next!
 39. Proximity AoE into Impact Stream move to Light/Dark (Check bracelet color!)
 40. Impact stream move to Light/Dark (check the bracelet color!) Stay close to AV for javelin
 41. Medusa javelin, dodge it!
-42. Raidwide/meteor (Shield healers shields up, Eurekan Potion)
-43.!!! ENRAGE !!! (@7:20)
+42. **Raidwide/meteor (Shield healers shields up, Eurekan Potion)**{:.healer}
+43. **!!! ENRAGE !!! (@7:20)**{:.danger}
 
 ![](img/ozma.png)
 
 Ozma
 ----
-1. Orb (Heavy hitting autoattacks)	
+1. **Orb (Heavy hitting autoattacks)**{:.tank}
 2. Star, move to the back, together to the front, shared dmg	
 3. Knockback to the front (close to portal, not on top)	
 4. Black hole	
-5. Orb (Heavy hitting autoattacks)	
+5. **Orb (Heavy hitting autoattacks)**{:.tank}
 6. Ozmashade, Cube=close, Star=away, pyramid=sides	
 7. Ozmashade+Ozma, Cube=close, Star=away, pyramid=sides	--- Shade first, main ozma after	
 8. Ozma form change (move after shade!)	
    * A. Cube (Donut AoE, get close to him!) MT away from group!	
-      * A.1 Orbs, OT's take them	
-      * A.2 Stackmarker, care for Holy after (small knockback)	
+      * **A.1 Orbs, OT's take them**{:.tank}
+      * **A.2 Stackmarker, care for Holy after (small knockback)**{:.healer}
       * A.3 Holy (small knockback)	
       * A.4 Ozmashade+Holy , Cube=close, pyramid=side
    * B. Pyramid (Line AoE, move to sides) Bleed inbetween mechanics, pls bait!!	Shade+Ozma
-      * B.1 Acceleration bomb, DO NOT MOVE/CAST, Sheath your Weapon	
-      * B.2 Meteor, place them to the back and to the right! Kill adds ASAP!	
+      * **B.1 Acceleration bomb, DO NOT MOVE/CAST, Sheath your Weapon**{:.danger}
+      * **B.2 Meteor, place them to the back and to the right! Kill adds ASAP!**{:.healer}
       * B.3 Ozmashade+Acc Bomb, Cube=close, Star=away, pyramid=sides	
-      * B.4 Stackmarker
+      * **B.4 Stackmarker**{:.healer}
    * C. Star (Circle AoE, move to the back) Splashing dmg all the time, stack!	Shade+Ozma
-      * C.1 Meteor, place them to the back and to the right! 	
-      * C.2 Knockback, to front (Meteor dmg first!) Kill adds ASAP!	
+      * **C.1 Meteor, place them to the back and to the right!**{:.healer}
+      * **C.2 Knockback, to front (Meteor dmg first!) Kill adds ASAP!**{:.healer}
       * C.3 Ozmashade+Knockback, Cube=To Shade, Star=away from Shade
 9. Black hole (after every phase)	Shade+Ozma --- Step 8+9 Repeat 4 times, so please adjust to the different shape
-10. ENRAGE (10:35)
+10. **ENRAGE (10:35)**{:.danger}
