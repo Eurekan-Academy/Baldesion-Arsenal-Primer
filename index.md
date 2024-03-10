@@ -230,7 +230,8 @@ Your Party Lead will mark the correct room for you now. Each party will take a s
 ![](img/elemental-rooms.jpg)
 
 
-Once the trap in your room is cleared (most likely by your tank, using invulnerability), and everyone is ready, the tanks switch their stance on, switch to the defensive element for their room (and use a `Wisdom of the Guardian` to help with healing), mobs spawn. We kill those quickly, then move on to AV, where we will wait (about 7 min break) for the Support group to arrive.
+If you are the tank in your group, your job is now to clear the trap, using your invulnerability. Also switch your tank stance on, and set your magiaauto to defensive, as you will be tanking something. You can also consider using a `Wisdom of the Guardian` to help with healing if you don't have a lot of +2 gear. When all groups are prepared, tanks step into the blue portal which will spawn the support fate in Hydatos, and two adds per room. We kill these adds quickly, then move on to AV, where we will wait (about 5 min break) for the Support group to arrive.
+If you tanked a support room, remember to switch your stance off, and your magiaauto back to offensive (unless you are the main tank of course!).
 
 ### Support Fate
 
@@ -324,8 +325,8 @@ In Pyramid Phase, one healer per platform will need to stand at the back to bait
 
 ### Tank Duties
 
-You may be a MT for your platform, or an OT, which in turn means you are responsible for running into the Orbs in Cube Phase, and tanking the Adds in Star Shape.
-A defensive logos action like `Wisdom of the Guardian` is great for that, and be in defensive element on your magia wheel.
+You may be a Main Tank for your platform, which means you will tank Ozma. Or you are an Offtank, which in turn means you are responsible for running into the Orbs in Cube Phase, and tanking the Adds in Star Shape.
+A defensive logos action like `Wisdom of the Guardian` is great for both of those duties, and being in defensive element on your magia wheel.
 For the Orbs, you will need to take those that spawn to the RIGHT of your platform (i.e. go counter-clockwise).
 
 The Orbs will hit you through invulnerability, so pop plenty of cooldowns when you take those, and be quick with resolving this mechanic to avoid the Orb AEs clipping the main group on the platform.
