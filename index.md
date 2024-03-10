@@ -1,5 +1,7 @@
 This guide is intended for players who are new to BA, so it will not aim to explain *everything*. Things like chaining `Double Edge`, `Reflect`ing the Earth room or even how to use `Sacrifice` to resurrect someone are beyond the scope of this guide. If you want to learn more, and enjoyed your first run, do check out the resources towards the end, and the two Discord servers have a ton of advanced information to help you continue to learn and become a BA veteran.
 
+* TOC
+{:toc}
 
 ## What is BA?
 
@@ -402,4 +404,4 @@ Thanks for reading all the way to the end, and I hope to see you on a run soon!
 
 ![](img/ba.jpg)
 
-`v2023.2.6b`
+`v2024.3.10`
