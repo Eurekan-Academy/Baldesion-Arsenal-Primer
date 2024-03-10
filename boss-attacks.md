@@ -19,7 +19,7 @@ Boss Attack Queue Sheet
 
 Art
 ---
-1. Tankbuster/thricecull {.tank}
+1. Tankbuster/thricecull {:.tank}
 2. In or Out/ Spinner or Carver (Donut or Circle AoE)   
 3. In or Out/ Spinner or Carver (Opposite of 2.)
 4. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
