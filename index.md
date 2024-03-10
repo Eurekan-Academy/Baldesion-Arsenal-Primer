@@ -310,20 +310,23 @@ We could be in for quite a lengthy explanation here, but I want to keep it simpl
 
 *for the full timeline, see the [boss attacks queue sheet](./boss-attacks)*
 
+And finally, for a video run-through of Ozma, there is [FFXIV (Proto) Ozma Class - Ultimate guide for Baldesion Arsenal's final boss](https://www.youtube.com/watch?v=aacZq49cfgw) by Ese for you to enjoy, or  [A Garbage Guide to a Full Run of the Baldesion Arsenal (LIGHT DC)](https://youtu.be/10W9Ut4zTNM) by Lucky for the full raid.
+
 ### Acceleration Bomb
 
-<video src='video/accel-bomb.mp4' controls loop muted autoplay>
-</video>
+<video src='video/accel-bomb.mp4' controls loop muted autoplay></video>
+
+For a good(?), certainly funny explanation on this mechanic, go watch [A Garbage guide to Ozma's Acceleration Bombs](https://www.youtube.com/watch?v=wqiITziXYtY) by Lucky.
 
 ### Meteor
 
-<video src='video/meteor.mp4' controls loop muted autoplay>
-</video>
+<video src='video/meteor.mp4' controls loop muted autoplay></video>
 
 ### Bleedbaiting
 
 In Pyramid Phase, one healer per platform will need to stand at the back to bait the bleed AE. They can easily heal themselves and `Esuna` the bleed. It's not very difficult to do, and typically the Expedition Leader will ask for volunteers to handle this part, so feel free to volunteer for it!
 
+If you want to watch a video explaining this in more detail, check out [A Garbage Guide to Bleed Baiting in the Baldesion Arsenal!](https://www.youtube.com/watch?v=uDmmI460GrA) by Lucky.
 
 ### Tank Duties
 
