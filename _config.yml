@@ -9,3 +9,5 @@ title: Baldesion Arsenal Primer
 description: A short introduction of the Baldesion Arsenal raid, tailored to the Light Datacentre tactics
 
 show_downloads: false
+
+markdown: kramdown
