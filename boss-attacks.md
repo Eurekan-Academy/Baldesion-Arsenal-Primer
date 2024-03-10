@@ -1,5 +1,6 @@
 Boss Attack Queue Sheet
 =======================
+{:.no_toc}
 
 * TOC
 {:toc}
