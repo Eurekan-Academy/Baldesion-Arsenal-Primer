@@ -1,6 +1,12 @@
 Boss Attack Queue Sheet
 =======================
 
+* TOC
+{:toc}
+
+
+![](img/art.png)
+
 Art
 ---
 1. Tankbuster/thricecull
@@ -33,6 +39,8 @@ Art
 28. Dodge aoe and immediately after stop moving
 29. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
 
+![](img/owain.png)
+
 Owain
 -----
 1. Tankbuster/thricecull
@@ -63,6 +71,8 @@ Owain
 26. Tankbuster/thricecull
 27. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
 
+![](img/raiden.png)
+
 Raiden
 ------
 1. Raidwide/spirits of the fallen
@@ -88,6 +98,8 @@ Raiden
 20. Sneaky Puddle/ booming lament, run out of it! 
 21. Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion) (Prepare to move to the Middle)
 22. Dash or Lancing bolt
+
+![](img/absolute-virtue.png)
 
 Absolute Virtue (AV)
 --------------------
@@ -134,6 +146,8 @@ Absolute Virtue (AV)
 41. Medusa javelin, dodge it!
 42. Raidwide/meteor (Shield healers shields up, Eurekan Potion)
 43.!!! ENRAGE !!! (@7:20)
+
+![](img/ozma.png)
 
 Ozma
 ----
