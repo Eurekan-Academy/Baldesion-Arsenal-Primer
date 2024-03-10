@@ -184,19 +184,13 @@ Here is a quick sequence of the things Owain will do. Listen for the callouts an
 
 ## A note on Traps
 
-We have one or two people on `Perception` duty (that is a logos action to reveal traps). They will scout ahead to reveal the traps for us, so we can safely avoid them. You never want to go into an area that the trappers have not made safe yet.
+We will usually have one or two people on `Perception` duty (that is a logos action to reveal traps). They will scout ahead to reveal the traps for us, so we can safely avoid them. You never want to go into an area that the trappers have not made safe yet.
 
 Big traps are explosive, and will kill you instantly. The smaller traps apply a nasty DoT that you also want to avoid.
 
-![](img/BA-traps.png)
+All traps are between Art/Owain and AV, and for the places to search for them you can refer to the following picture:
 
-On the way from Raiden and to the portal to Support rooms
-
-![](img/Eureka-Hydatos-The-Umbral-Tier_1.png)
-
-Just after the portal, and including Support rooms
-
-![](img/Eureka-Hydatos-The-Astral-Tier.png)
+![](img/ba-traps.jpg)
 
 ## Raiden
 
