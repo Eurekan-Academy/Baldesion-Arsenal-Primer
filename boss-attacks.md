@@ -3,8 +3,9 @@ Boss Attack Queue Sheet
 {:.no_toc}
 
 <style>
-.tank { background-color: #6495ED; color: blue; }
-.healer { background-color: #228B22; color: green; }
+.tank { background-color: #6495ED; color: white; }
+.healer { background-color: #228B22; color: white; }
+.normal { }
 </style>
 
 * TOC
@@ -18,41 +19,59 @@ Art
 1. Tankbuster/thricecull
 {:.tank}
 2. In or Out/ Spinner or Carver (Donut or Circle AoE)   
+{:.normal}
 3. In or Out/ Spinner or Carver (Opposite of 2.)
+{:.normal}
 4. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
 {:.healer}
 5. Spear Summon/Mythcall (Prepare to move in or out)
+{:.normal}
 6. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
+{:.normal}
 7. In or Out/ Spinner or Carver ( Opposite of 6)  Move to him if Circle aoe, Move to spear if Donut
+{:.normal}
 8. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
 {:.healer}
 9. Tankbuster/thricecull
 {:.tank}
 10. Spear Summon/Mythcall (Prepare to move in or out)
+{:.normal}
 11. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
+{:.normal}
 12. In or Out/ Spinner or Carver ( Opposite of 11)  Move to him if Circle aoe, Move to spear if Donut
+{:.normal}
 13. Dodge aoe and immediately after stop moving
+{:.normal}
 14. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
 {:.healer}
 15. Proximity AoE + Gravity ball (marked player away from the group!)
+{:.normal}
 16. Tankbuster/thricecull                                                                                                   Loopstart
 {:.tank}
 17. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
 {:.healer}
 18. Spear summon/mythcall + dont move! (dodge aoes)
+{:.normal}
 19. Tankbuster/thricecull
 {:.tank}
 20. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
+{:.normal}
 21. In or Out/ Spinner or Carver ( Opposite of 20)  Move to him if Circle aoe, Move to spear if Donut
+{:.normal}
 22. Tankbuster/thricecull
 {:.tank}
 23. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
 {:.healer}
 24. Spear Summon/Mythcall (Prepare to move in or out)
+{:.normal}
 25. Piercing dark, move aoe markes out of the group, prepare for main mechanic
+{:.normal}
 26. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
+{:.normal}
 27. In or Out/ Spinner or Carver ( Opposite of 26)  Move to him if Circle aoe, Move to spear if Donut
+{:.normal}
 28. Dodge aoe and immediately after stop moving
+{:.normal}
 29. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
 {:.healer}
 
