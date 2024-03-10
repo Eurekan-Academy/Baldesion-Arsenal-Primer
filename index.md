@@ -24,16 +24,18 @@ If this is not the case then you will need to check where you are with your ques
 
 ## How do I join?
 
-For all runs, we are using Discord for voice chat (you don't have to speak, but you need to be able to listen). On the Light datacentre, please join these two servers:
+For all runs, we are using Discord for voice chat (you don't have to speak, but you need to be able to listen). On the Light datacentre, please join these servers:
 
-Eurekan Academy | Light Forays Group
+Eurekan Academy | Lunar Forays Group
 :---:|:---:
-[![Eurekan Academy](img/eurekan-academy-300x170.png)](https://discord.gg/eurekanacademy) | [![Light Forays Group](img/lfg-300x170.jpg)](https://discord.gg/LightForays)
-[https://discord.gg/eurekanacademy](https://discord.gg/eurekanacademy) | [https://discord.gg/LightForays](https://discord.gg/LightForays)
+![Eurekan Academy](img/eurekan-academy-300x170.png) | ![Light Forays Group](img/lfg-300x170.jpg)
+[https://discord.gg/eurekanacademy](https://discord.gg/eurekanacademy) | [https://discord.gg/LunarForays](https://discord.gg/LunarForays)
 
-Next, take a look at the `#assign-role` / `#role-selection` channels and get set up so you are able to join us in voice.
 
-The Schedule for both servers can be found [here](https://bit.ly/3HBNp0G) and runs are also announced in their channels too.
+The Schedule for BA runs can be found [here](https://docs.google.com/spreadsheets/d/1WD_jXdCrQDjzKS0vvqumlmIcSzq4nAnkQBnp7XuUK68/htmlview) and runs are also announced in the various announcement channels too.
+On the schedule sheet you can also find invite links for some servers that do BA on Light, as well as Chaos (which you can get to via Datacentre travel). If you are interested, it also lists Delubrum Savage (DRS) runs.
+
+After joining a server, you should also take a look at the `#assign-role` / `#role-selection` channels and get set up so you are able to join the voice channel during a run.
 
 A typical run takes about 2 hours. Not all the time is spent fighting, but if we have new players joining, we spend time on explanations too. And sometimes, Ovni spawn can delay the actual start too - more on that later.
 
