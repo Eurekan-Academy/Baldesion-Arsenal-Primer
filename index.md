@@ -74,6 +74,7 @@ You will need to know how to craft in both Umbral/Astral slots to make best use 
 ![](img/craft.png)
 
 Here are some easy recommendations to get you started. If you are unsure, or don't have enough Logograms to craft this set, reach out to us in `#ba-chat` and ask for help.
+A great way to view the various recipes for crafts is to use the [Eureka Tracker](https://ffxiv-eureka.com/logograms) website.
 
 ### Tanks
 
