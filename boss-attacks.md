@@ -165,11 +165,11 @@ Absolute Virtue (AV)
 
 Ozma
 ----
-1. **Orb (Heavy hitting autoattacks)**{:.tank}
+1. **Orb form (Heavy hitting autoattacks)**{:.tank}
 2. Star shape, move to the back, together to the front, shared dmg	
 3. Knockback to the front (close to portal, not on top)	
 4. Black hole	
-5. **Orb (Heavy hitting autoattacks)**{:.tank}
+5. **Orb form (Heavy hitting autoattacks)**{:.tank}
 6. Ozmashade, Cube=close, Star=away, pyramid=sides	
 7. Ozmashade + Ozma, Cube=close, Star=far/awar, pyramid=on ring	--- Shade first, Ozma after	 *Step 7+8+9 Repeat 5 times, first form is always Star*
 8. Ozma form
@@ -187,5 +187,5 @@ Ozma
       * **C.1 Meteors**{:.danger}
       * **C.2 Knockback, to front (Meteor dmg first!) Kill adds ASAP!**{:.healer}
       * C.3 Ozmashade + Knockback
-9. Black hole (after every phase)	Shade+Ozma 
+9. Black hole (after every phase)
 10. **ENRAGE (10:35)**{:.danger}
