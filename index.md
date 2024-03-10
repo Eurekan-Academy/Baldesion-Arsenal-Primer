@@ -149,6 +149,8 @@ Now is also the right time to use the `/magiaauto` command. It will adjust your 
 The raid will now split into two groups, where one side does the Art boss, and the other does Owain. These two bosses need to be dealt with at the same time, and which side you go to depends on which group you are in.
 Your Party leader will tell you where to go, but if unsure - just ask! Once you dropped down the ledge, you cannot go back to the entrance, so make sure you go to the right side.
 
+![](img/art-owain.jpg)
+
 ### Art
 
 Here is a quick sequence of the things Art will do. Listen for the callouts and dodge his AEs.
