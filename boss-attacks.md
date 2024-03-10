@@ -3,12 +3,8 @@ Boss Attack Queue Sheet
 {:.no_toc}
 
 <style>
-.tank {
-  color: blue;
-}
-.healer {
-  color: green;
-}
+.tank { background-color: #6495ED; color: blue; }
+.healer { background-color: #228B22; color: green; }
 </style>
 
 * TOC
@@ -24,63 +20,84 @@ Art
 2. In or Out/ Spinner or Carver (Donut or Circle AoE)   
 3. In or Out/ Spinner or Carver (Opposite of 2.)
 4. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 5. Spear Summon/Mythcall (Prepare to move in or out)
 6. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
 7. In or Out/ Spinner or Carver ( Opposite of 6)  Move to him if Circle aoe, Move to spear if Donut
 8. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 9. Tankbuster/thricecull
+{:.tank}
 10. Spear Summon/Mythcall (Prepare to move in or out)
 11. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
 12. In or Out/ Spinner or Carver ( Opposite of 11)  Move to him if Circle aoe, Move to spear if Donut
 13. Dodge aoe and immediately after stop moving
 14. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 15. Proximity AoE + Gravity ball (marked player away from the group!)
 16. Tankbuster/thricecull                                                                                                   Loopstart
+{:.tank}
 17. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 18. Spear summon/mythcall + dont move! (dodge aoes)
 19. Tankbuster/thricecull
+{:.tank}
 20. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
 21. In or Out/ Spinner or Carver ( Opposite of 20)  Move to him if Circle aoe, Move to spear if Donut
 22. Tankbuster/thricecull
+{:.tank}
 23. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 24. Spear Summon/Mythcall (Prepare to move in or out)
 25. Piercing dark, move aoe markes out of the group, prepare for main mechanic
 26. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
 27. In or Out/ Spinner or Carver ( Opposite of 26)  Move to him if Circle aoe, Move to spear if Donut
 28. Dodge aoe and immediately after stop moving
 29. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 
 ![](img/owain.png)
 
 Owain
 -----
 1. Tankbuster/thricecull
+{:.tank}
 2. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 3. Spear summon/ Mythcall (Prepare for Elemental shift)
 4. Elemental shift (Fire or Ice)
 5. Elemental magics, Move to a spear with the opposite element as Owain (Fire or Ice)
 6. Tankbuster/thricecull
+{:.tank}
 7. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 8. Elemental shift (Fire or Ice)
 9. Elemental magics, Move to a spear with the opposite element as Owain (Fire or Ice)
 10. Tankbuster/thricecull (group stack behind him right after to make the following aoes easyer.)
 11. Big aoe's away, little aoes (triangle) stack
 12. Tankbuster/thricecull
+{:.tank}
 13. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 14. Proximity AoE, circle aoe away from the group
 15. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)                                                        Loopstart
+{:.healer}
 16. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 17. Elemental shift (Fire or Ice) Stack behind him first for upcoming aoes.
 18. Big aoe's away, little aoes (triangle) stack
 19. Elemental magics, Move to a spear with the opposite element as Owain (Fire or Ice)
 20. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)                                                        
+{:.healer}
 21. If tethered to a Hand look at it and move towards it.
 22. Elemental shift (Fire or Ice)
 23. Elemental magics, Move to a spear with the opposite element as Owain (Fire or Ice)
 24. Tankbuster/thricecull (group stack behind him right after to make the following aoes easyer.)
 25. Big aoe's away, little aoes (triangle) stack
 26. Tankbuster/thricecull
+{:.tank}
 27. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
+{:.healer}
 
 ![](img/raiden.png)
 
