@@ -6,6 +6,7 @@ Boss Attack Queue Sheet
 .tank { background-color: #6495ED; color: white; }
 .healer { background-color: #228B22; color: white; }
 .danger { background-color: #FF8C00; color: black; }
+.loopstart { background-color: #FFFFFF; color: #000000; }
 </style>
 
 * TOC
@@ -29,7 +30,7 @@ Art
 10. Spear Summon/Mythcall (Prepare to move in or out)
 11. In or Out/ Spinner or Carver (Donut or Circle Aoe)
 12. Spear In or Out/ Spinner or Carver Move to him if Circle aoe, Move to spear if Donut
-13. Dodge aoe and immediately after stop moving/Legendary Geas *Loopstart*
+13. Dodge aoe and immediately after stop moving/Legendary Geas *Loopstart*{:.loopstart}
 14. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
 15. Proximity AoE + Gravity ball (marked player away from the group!)
 16. **Tankbuster/thricecull**{:.tank}
@@ -60,7 +61,7 @@ Owain
 10. **Tankbuster/thricecull (group stack behind him right after to make the following aoes easier)**{:.tank}
 11. Big aoe's away, little aoes (triangle) stack
 12. **Tankbuster/thricecull**{:.tank}
-13. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}    *Loopstart*
+13. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer} *Loopstart*{:.loopstart}
 14. Proximity AoE, circle aoe away from the group
 15. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
 16. **Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)**{:.healer}
@@ -90,7 +91,7 @@ Raiden
 9. Lancing bolt, Spread AoEs, dont Overlap to much, Kill Spears (Prepare for Raidwide after)
 10. **Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion) Sneaky puddle next!**{:.healer}    
 11. **Sneaky Puddle/ booming lament, run out of it!**{:.danger}
-12. Exaflare/ Cloud to ground, Check where it spawns, move behind the path of the first *Loopstart*
+12. Exaflare/ Cloud to ground, Check where it spawns, move behind the path of the first *Loopstart*{:.loopstart}
 13. Tethers + Small AoE (bitter barbs), break tethers, dodge AoEs !!! Watchout for Exaflares !!! 
 14. **Move into his Hitbox/Whirling zantetsuken**{:.danger}
 15. **Raidwide/spirits of the fallen (Shield healers shields up, Eurekan Potion)**{:.healer}
@@ -172,7 +173,7 @@ Ozma
 4. Black hole	
 5. **Orb form (Heavy hitting autoattacks)**{:.tank}
 6. Ozmashade, Cube=close, Star=away, pyramid=sides	
-7. Ozmashade + Ozma, Cube=close, Star=far/awar, pyramid=on ring	--- Shade first, Ozma after	 *Step 7+8+9 Repeat 5 times, first form is always Star*
+7. Ozmashade + Ozma, Cube=close, Star=far/awar, pyramid=on ring	--- Shade first, Ozma after	 *Step 7+8+9 Repeat 5 times, first form is always Star*{:.loopstart}
 8. Ozma form
    * A. Cube (Donut AoE, get close to him!) MT away from group!	
       * **A.1 Orbs, Offtanks pop them**{:.tank}
