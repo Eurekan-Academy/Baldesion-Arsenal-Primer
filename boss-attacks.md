@@ -145,19 +145,19 @@ Ozma
 6. Ozmashade, Cube=close, Star=away, pyramid=sides	
 7. Ozmashade+Ozma, Cube=close, Star=away, pyramid=sides	--- Shade first, main ozma after	
 8. Ozma form change (move after shade!)	
-  * A. Cube (Donut AoE, get close to him!) MT away from group!	
-     * A.1 Orbs, OT's take them	
-     * A.2 Stackmarker, care for Holy after (small knockback)	
-     * A.3 Holy (small knockback)	
-     * A.4 Ozmashade+Holy , Cube=close, pyramid=sides
-  * B. Pyramid (Line AoE, move to sides) Bleed inbetween mechanics, pls bait!!	Shade+Ozma
-     * B.1 Acceleration bomb, DO NOT MOVE/CAST, Sheath your Weapon	
-     * B.2 Meteor, place them to the back and to the right! Kill adds ASAP!	
-     * B.3 Ozmashade+Acc Bomb, Cube=close, Star=away, pyramid=sides	
-     * B.4 Stackmarker
-  * C. Star (Circle AoE, move to the back) Splashing dmg all the time, stack!	Shade+Ozma
-     * C.1 Meteor, place them to the back and to the right! 	
-     * C.2 Knockback, to front (Meteor dmg first!) Kill adds ASAP!	
-     * C.3 Ozmashade+Knockback, Cube=To Shade, Star=away from Shade
+   * A. Cube (Donut AoE, get close to him!) MT away from group!	
+      * A.1 Orbs, OT's take them	
+      * A.2 Stackmarker, care for Holy after (small knockback)	
+      * A.3 Holy (small knockback)	
+      * A.4 Ozmashade+Holy , Cube=close, pyramid=side
+   * B. Pyramid (Line AoE, move to sides) Bleed inbetween mechanics, pls bait!!	Shade+Ozma
+      * B.1 Acceleration bomb, DO NOT MOVE/CAST, Sheath your Weapon	
+      * B.2 Meteor, place them to the back and to the right! Kill adds ASAP!	
+      * B.3 Ozmashade+Acc Bomb, Cube=close, Star=away, pyramid=sides	
+      * B.4 Stackmarker
+   * C. Star (Circle AoE, move to the back) Splashing dmg all the time, stack!	Shade+Ozma
+      * C.1 Meteor, place them to the back and to the right! 	
+      * C.2 Knockback, to front (Meteor dmg first!) Kill adds ASAP!	
+      * C.3 Ozmashade+Knockback, Cube=To Shade, Star=away from Shade
 9. Black hole (after every phase)	Shade+Ozma --- Step 8+9 Repeat 4 times, so please adjust to the different shape
 10. ENRAGE (10:35)
