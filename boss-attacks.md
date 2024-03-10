@@ -16,14 +16,12 @@ Boss Attack Queue Sheet
 
 Art
 ---
-1. Tankbuster/thricecull
-{:.tank}
+1. Tankbuster/thricecull{:.tank}
 2. In or Out/ Spinner or Carver (Donut or Circle AoE)   
 {:.normal}
 3. In or Out/ Spinner or Carver (Opposite of 2.)
 {:.normal}
-4. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion)
-{:.healer}
+4. Raidwide/acallum na senorach (Shield healers shields up, Eurekan Potion){:.healer}
 5. Spear Summon/Mythcall (Prepare to move in or out)
 {:.normal}
 6. In or Out/ Spinner or Carver  (Donut or Circle Aoe) Move to him if Circle aoe, Move to spear if Donut
