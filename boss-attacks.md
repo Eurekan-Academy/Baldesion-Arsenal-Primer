@@ -16,7 +16,7 @@ Boss Attack Queue Sheet
 
 Art
 ---
-1. Tankbuster/thricecull{:.tank}
+1. **Tankbuster/thricecull**{:.tank}
 2. In or Out/ Spinner or Carver (Donut or Circle AoE)   
 {:.normal}
 3. In or Out/ Spinner or Carver (Opposite of 2.)
