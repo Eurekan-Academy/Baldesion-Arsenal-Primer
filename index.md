@@ -140,7 +140,7 @@ The actual portal map is specific to which discord you are running with, as the 
 
 ## Inside BA
 
-Once we entered the Arsenal, we pop a `Spirit of the Remembered` and an appropriate wisdom for your role (for example `Wisom of the Skirmisher`). Take care to not just activate the Logos action slot, but also to click the action to activate it (so it shows on your buffs list). Then we wait on the bridge until some nice volunteers who brought `Shell` and `Protect` have handed that out to you. After that you can use the Logos Manipulator to recraft Logos actions so you are well prepared for what's ahead.
+Once we entered the Arsenal, we pop a `Spirit of the Remembered` and an appropriate wisdom for your role (for example `Wisdom of the Skirmisher`). Take care to not just activate the Logos action slot, but also to click the action to activate it (so it shows on your buffs list). Then we wait on the bridge until some nice volunteers who brought `Shell` and `Protect` have handed that out to you. After that you can use the Logos Manipulator to recraft Logos actions so you are well prepared for what's ahead.
 
 Now is also the right time to use the `/magiaauto` command. It will adjust your magia wheel to the offensive (or defensive, if you use the command twice) setting. All roles except tanks want to have this on the offensive setting at all times. For tanks it depends if you are one of the main tanks for the run, or at a boss, where you may prefer to be in a defensive element. Let your healers know what you're planning to do!
 
@@ -202,7 +202,7 @@ A good way to handle this mechanic is for the whole group to stack in the same p
 
 1. Spirits of the fallen - raidwide damage
 2. Shingan - tankbuster
-3. Thundercall - outer platform becomes death zone
+3. Thundercall - platform edge becomes deadly
 4. Ame-no-sakahoko - go south (C marker) to avoid the **BIG AE**
 5. Whirling zantetsuken - get **inside his hitbox**
 6. Ball lightning - stack to bait AE
@@ -269,12 +269,13 @@ This is what you are likely to see in the fight:
 11. Aural Wind
 12. Meteor
 13. Meteor
-14. Explosive Impulse x3 - Proximity AEs around the edge, stay in the middle
-15. Triple Impact stream. Listen to the callouts and don't run too far from the middle
-16. Explosive Impulse - Proximity AE - pop `Sprint` and run to the edge
-17. Medusa Javelin - be close again to dodge this more easily
-18. Aural Wind
-19. *for the full timeline, see the [boss attacks queue sheet](./boss-attacks)*
+14. Impact stream. Listen to the callouts and don't run too far from the middle
+15. Impact stream. Listen to the callouts and don't run too far from the middle
+16. Impact stream. Listen to the callouts and don't run too far from the middle
+17. Explosive Impulse - Proximity AE - pop `Sprint` and run to the edge
+18. Medusa Javelin - be close again to dodge this more easily
+19. Aural Wind
+20. *for the full timeline, see the [boss attacks queue sheet](./boss-attacks)*
 
 ## Ozma
 
