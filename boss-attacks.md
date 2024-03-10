@@ -180,11 +180,11 @@ Ozma
       * A.4 Ozmashade + Stack + Knockback
    * B. Pyramid (Line AoE, move to sides) Bleed inbetween mechanics, healer needs to bait!
       * **B.1 Acceleration bomb, DO NOT MOVE/CAST, Sheath your Weapon**{:.danger}
-      * **B.2 Meteor, place them to the back and to the right! Kill adds ASAP!**{:.healer}
+      * **B.2 Meteor, place them to the back and to the right! Kill adds ASAP!**{:.danger}
       * B.3 Ozmashade + Acceleration Bombs
       * **B.4 Stackmarker**{:.healer}
    * C. Star (Circle AoE, move to the back) Splashing dmg all the time, stack!
-      * **C.1 Meteor, place them to the back and to the right!**{:.healer}
+      * **C.1 Meteors**{:.danger}
       * **C.2 Knockback, to front (Meteor dmg first!) Kill adds ASAP!**{:.healer}
       * C.3 Ozmashade + Knockback
 9. Black hole (after every phase)	Shade+Ozma 
