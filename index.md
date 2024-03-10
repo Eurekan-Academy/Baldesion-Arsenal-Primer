@@ -166,7 +166,7 @@ Here is a quick sequence of the things Art will do. Listen for the callouts and 
 8. Thricecull
 9. Summon Spears
 10. Carver/Spinner, spears do the same mechanic after Art
-11. Legendary Geass, and beyond - we rarely see this anymore. Listen for callouts if we do!
+11. *for the full timeline, see the [boss attacks queue sheet](./boss-attacks)*
 
 ### Owain
 
@@ -182,7 +182,7 @@ Here is a quick sequence of the things Owain will do. Listen for the callouts an
 8. Elemental Shift
 9. Elemental Magicks
 10. Thricecull
-11. Spiritcull, and beyond - we rarely see this anymore. Listen for callouts if we do!
+11. *for the full timeline, see the [boss attacks queue sheet](./boss-attacks)*
 
 ## A note on Traps
 
@@ -209,7 +209,7 @@ A good way to handle this mechanic is for the whole group to stack in the same p
 7. Lateral zantetsuken - dodge either left or right depending where he holds his sword. Listen to the callouts to make this easy
 8. Lancing bolt - If you get marked with this, place your AE around the edge of the arena
 9. Booming lament - puddle AEs, dodge them quickly
-10. Cloud to ground, and beyond - we rarely see this anymore. Listen for callouts if we do!
+10. *for the full timeline, see the [boss attacks queue sheet](./boss-attacks)*
 
 ## The search for the portal and Elemental rooms
 
@@ -274,7 +274,7 @@ This is what you are likely to see in the fight:
 16. Explosive Impulse - Proximity AE - pop `Sprint` and run to the edge
 17. Medusa Javelin - be close again to dodge this more easily
 18. Aural Wind
-19. Meteor, and beyond - we rarely see this anymore. Just listen for callouts if we do!
+19. *for the full timeline, see the [boss attacks queue sheet](./boss-attacks)*
 
 ## Ozma
 
@@ -307,6 +307,7 @@ We could be in for quite a lengthy explanation here, but I want to keep it simpl
 2. Acceleration Bomb. If you got one of these, stop casting, emoting, and, well, **literally don't do a thing** and wait for it to expire before doing anything else. If you notice it in time, you can often move to the ring and avoid getting hit with another mechanic. 
 3. Meteors. Repeat after me: **To the back and to the right**.  Place them on the markers that your Party lead will have mentioned to you. If you're unsure - do ask again. This can wipe the raid if you get it wrong. Placing these right also take priority over the Acceleration Bomb, should be be so unlucky and get both mechanics.
 
+*for the full timeline, see the [boss attacks queue sheet](./boss-attacks)*
 
 ### Acceleration Bomb
 
